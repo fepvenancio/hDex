@@ -1,3 +1,12 @@
+Hey, 
+
+hDEX is a hedera hackathon 2022 project, the idea is to try and create a DEX in hedera using smart contracts and EVM (the hackathon lauches the EVM compability.
+
+I will update the license to MIT, feel free to do whatever you want with the code, keep in mind this is a TEST PROJECT to add to my portfolio.
+
+
+========================================================================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
